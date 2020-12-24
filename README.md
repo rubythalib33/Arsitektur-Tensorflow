@@ -1,1 +1,3 @@
-# Arsitektur-Tensorflow
+# Architecture-Tensorflow
+
+Tensorflow 2.0
